@@ -1,5 +1,7 @@
 # clipb
 
+[![Release](https://img.shields.io/github/v/release/libnudget/clipb?logo=github&label=latest)](https://github.com/libnudget/clipb/releases)
+
 A lightweight clipboard utility for developers.
 
 clipb copies file paths to the system clipboard without leaving your
@@ -10,7 +12,7 @@ correctly.
 ## Installation
 
 ```sh
-cargo install --git https://github.com/libnudget/clipb --tag v0.1.0
+cargo install --git https://github.com/libnudget/clipb
 ```
 
 ## Usage
