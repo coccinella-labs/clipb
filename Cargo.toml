@@ -1,0 +1,13 @@
+[package]
+name = "clipb"
+version = "0.1.0"
+edition = "2021"
+description = "A lightweight clipboard utility for developers."
+license = "MIT"
+repository = "https://github.com/libnudget/clipb"
+keywords = ["clipboard", "cli"]
+categories = ["command-line-utilities"]
+
+[dependencies]
+arboard = "3"
+clap = { version = "4", features = ["derive"] }
