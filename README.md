@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/clipb/main/.github/assets/thumbnail.png" alt="clipb" width="100%">
+</p>
+
 # clipb
 
 [![Release](https://img.shields.io/github/v/release/libnudget/clipb?logo=github&label=latest)](https://github.com/libnudget/clipb/releases)
