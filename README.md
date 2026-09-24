@@ -4,7 +4,7 @@
 
 # clipb
 
-[![Release](https://img.shields.io/github/v/release/libnudget/clipb?logo=github&label=latest)](https://github.com/libnudget/clipb/releases)
+[![Release](https://img.shields.io/github/v/release/coccinella-labs/clipb?logo=github&label=latest)](https://github.com/coccinella-labs/clipb/releases)
 
 A lightweight clipboard utility for developers.
 
@@ -16,7 +16,7 @@ correctly.
 ## Installation
 
 ```sh
-cargo install --git https://github.com/libnudget/clipb
+cargo install --git https://github.com/coccinella-labs/clipb
 ```
 
 ## Usage
