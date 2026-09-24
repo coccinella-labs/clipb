@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "A lightweight clipboard utility for developers."
 license = "MIT"
-repository = "https://github.com/libnudget/clipb"
+repository = "https://github.com/coccinella-labs/clipb"
 keywords = ["clipboard", "cli"]
 categories = ["command-line-utilities"]
 
